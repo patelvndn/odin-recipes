@@ -1,10 +1,23 @@
-
-div {
-  color: white;
-  background-color: black;
+.recipes {
+  width: fit-content;
+  margin: 10px auto;
+  box-shadow: 1px 1px 1px black;
 }
 
-p {
-  color: red;
+ul {
+  border: solid 2px;
+  border-color: rebeccapurple;
+  background-color: aliceblue;
 }
 
+li {
+  border: solid 2px;
+  border-color: rebeccapurple;
+  margin: 5px;
+}
+
+h1 {
+  width: fit-content;
+  text-align: center;
+  margin: 0px auto;
+}
