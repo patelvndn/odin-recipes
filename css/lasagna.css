@@ -1,0 +1,55 @@
+img {
+  display: block;
+  width: 400px;
+  height: auto;
+  margin: 0px auto;
+  box-shadow: 1px 1px 10px black;
+}
+
+html {
+  background-color: powderblue;
+}
+
+h1 {
+  display: block;
+
+  margin: 10px auto;
+  padding: 10px;
+  width: fit-content;
+  font-size: 2em;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h3 {
+  display: block;
+  margin: 10px auto;
+  text-align: center;
+}
+
+li {
+  margin: 10px auto;
+}
+a {
+  display: block;
+  width: fit-content;
+  margin: 10px auto;
+  text-align: center;
+  font-size: large;
+}
+
+strong {
+  display: block;
+  width: fit-content;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.ingredients,
+.steps {
+  width: fit-content;
+  margin: 10px auto;
+  box-shadow: 1px 1px 10px black;
+  background-color: aliceblue;
+  padding: 5px;
+}
